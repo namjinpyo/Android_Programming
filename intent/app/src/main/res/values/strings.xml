@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Intent</string>
-    <string name="launchActivity_Button_text">SUB 액티비티 실행</string>
-    <string name="textView_text">Main 액티비티</string>
-    <string name="terminateActivity_Button_text">Sub 액티비티 종료</string>
-    <string name="textView_Sub_text">Sub 액티비티</string>
-</resources>
