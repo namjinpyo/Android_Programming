@@ -8,5 +8,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Basics Codelab</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
     <style name="Theme.BasicsCodelab" parent="android:Theme.Material.Light.NoActionBar"/>
 </resources>

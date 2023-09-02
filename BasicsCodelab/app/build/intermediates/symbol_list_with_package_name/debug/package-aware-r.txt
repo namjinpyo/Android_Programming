@@ -179,6 +179,8 @@ string on
 string range_end
 string range_start
 string selected
+string show_less
+string show_more
 string status_bar_notification_info_overflow
 string switch_role
 string tab

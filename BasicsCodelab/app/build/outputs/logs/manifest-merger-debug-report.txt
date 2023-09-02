@@ -5,9 +5,10 @@ INJECTED from C:\Users\namjp\AndroidStudioProjects\Android_Programming\BasicsCod
 INJECTED from C:\Users\namjp\AndroidStudioProjects\Android_Programming\BasicsCodelab\app\src\main\AndroidManifest.xml:2:1-28:12
 INJECTED from C:\Users\namjp\AndroidStudioProjects\Android_Programming\BasicsCodelab\app\src\main\AndroidManifest.xml:2:1-28:12
 MERGED from [androidx.compose.material3:material3:1.0.0] C:\Users\namjp\.gradle\caches\transforms-3\9cc0b765caf38179c734d10b72e03aed\transformed\material3-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.material:material-ripple:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\d23830491b6806af6f77c717ffd6179e\transformed\material-ripple-1.4.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.material:material-icons-core:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\ea2673629ee76fcba0352185df3969eb\transformed\material-icons-core-1.4.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.compose.material:material:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\ab737578b2a070f073f57980964fb8ac\transformed\material-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\ea2673629ee76fcba0352185df3969eb\transformed\material-icons-core-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-extended:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\24c5f766765fe0e9b3d62574ce589b61\transformed\material-icons-extended-1.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\d23830491b6806af6f77c717ffd6179e\transformed\material-ripple-1.4.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.compose.animation:animation-core:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\8ca8b09e4a3d1aef6abc1b9f92ab3521\transformed\animation-core-1.4.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.compose.animation:animation:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\e2dcad74c7e042a4aea35d281060be0d\transformed\animation-1.4.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.compose.foundation:foundation-layout:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\488bfd71c19367c80263c61ba1329692\transformed\foundation-layout-1.4.0\AndroidManifest.xml:17:1-22:12
@@ -124,12 +125,14 @@ INJECTED from C:\Users\namjp\AndroidStudioProjects\Android_Programming\BasicsCod
 INJECTED from C:\Users\namjp\AndroidStudioProjects\Android_Programming\BasicsCodelab\app\src\main\AndroidManifest.xml
 MERGED from [androidx.compose.material3:material3:1.0.0] C:\Users\namjp\.gradle\caches\transforms-3\9cc0b765caf38179c734d10b72e03aed\transformed\material3-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.compose.material3:material3:1.0.0] C:\Users\namjp\.gradle\caches\transforms-3\9cc0b765caf38179c734d10b72e03aed\transformed\material3-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material-ripple:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\d23830491b6806af6f77c717ffd6179e\transformed\material-ripple-1.4.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material-ripple:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\d23830491b6806af6f77c717ffd6179e\transformed\material-ripple-1.4.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material-icons-core:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\ea2673629ee76fcba0352185df3969eb\transformed\material-icons-core-1.4.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material-icons-core:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\ea2673629ee76fcba0352185df3969eb\transformed\material-icons-core-1.4.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.compose.material:material:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\ab737578b2a070f073f57980964fb8ac\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.compose.material:material:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\ab737578b2a070f073f57980964fb8ac\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\ea2673629ee76fcba0352185df3969eb\transformed\material-icons-core-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\ea2673629ee76fcba0352185df3969eb\transformed\material-icons-core-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-extended:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\24c5f766765fe0e9b3d62574ce589b61\transformed\material-icons-extended-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-extended:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\24c5f766765fe0e9b3d62574ce589b61\transformed\material-icons-extended-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\d23830491b6806af6f77c717ffd6179e\transformed\material-ripple-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\d23830491b6806af6f77c717ffd6179e\transformed\material-ripple-1.4.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.compose.animation:animation-core:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\8ca8b09e4a3d1aef6abc1b9f92ab3521\transformed\animation-core-1.4.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.compose.animation:animation-core:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\8ca8b09e4a3d1aef6abc1b9f92ab3521\transformed\animation-core-1.4.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.compose.animation:animation:1.4.0] C:\Users\namjp\.gradle\caches\transforms-3\e2dcad74c7e042a4aea35d281060be0d\transformed\animation-1.4.0\AndroidManifest.xml:20:5-44

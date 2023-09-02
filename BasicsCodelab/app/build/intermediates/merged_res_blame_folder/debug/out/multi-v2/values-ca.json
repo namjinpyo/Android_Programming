@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.basicscodelab.app-mergeDebugResources-42:/values-ca/values-ca.xml",
+            "outputFile": "com.example.basicscodelab.app-mergeDebugResources-43:/values-ca/values-ca.xml",
             "map": [
                 {
                     "source": "C:\\Users\\namjp\\.gradle\\caches\\transforms-3\\83cf593ad36391ee132da6f44330026f\\transformed\\ui-1.4.0\\res\\values-ca\\values-ca.xml",
